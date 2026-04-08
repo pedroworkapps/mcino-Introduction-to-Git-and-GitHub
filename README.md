@@ -9,3 +9,4 @@ Simple Interest Calculator
 This project contains a Bash script that calculates simple interest
 based on user input including principal amount, rate of interest,
 and time period.
+fixed typo
